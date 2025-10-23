@@ -1,6 +1,5 @@
 import requests
-import json
-import pprint
+import json
 
 class color:
     RED = '\033[91m'
